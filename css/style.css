@@ -1,0 +1,7 @@
+.block {
+  border: 2px solid black;
+  width: 75px;
+  height: 75px;
+  margin-bottom: 20px;
+  text-align: center;
+}
